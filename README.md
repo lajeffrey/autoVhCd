@@ -1,12 +1,10 @@
-# ViCE: A Villus and Crypt Evaluator
-This is where the beta versions of our ***automatic*** villus height and crypt depth evaluator is stored. Feed your version of  ViCE an H&E stained image and it'll dish out villi-crypt pair measurements and then some.
+# ViCE: An Automatic Villus and Crypt Evaluator
+Intestinal villus and crypt morphology strongly correlate with nutrient absorption, intestinal disorder severity, and therapy response, so much so that abnormal morphology findings are central to disease diagnoses. Pathologists require ~30 min per patient when quantifying morphology data. Machine learning image analysis methods exist, but their reprodicibility and replicability can be unsatisfactory. We present a simple GUI that automatically evaluates tissue quality and determines quantitative histology measures. 
 
-## Craving something sweet? Here's a lollipop
-![Summary](https://github.com/lajeffrey/autoVhCd/blob/bc6594c7467cb66f548f7ae02936651704dde13c/ViCE%20pic.jpg)
-Example image input (left) and ViCE's outputs (right). Image is from JRTurner Lab's Atlas: https://jrturnerlab.com/database-viewer/atlas-of-intestinal-transport/
 
 
 ## Updates
+* (06/2023) ViCE v.1.09.01 is released with its GUI
 * (11/2022) ViCE v.0.14.03 is released. A more compact and functionalized iteration. 
 
 
